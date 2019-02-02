@@ -16,4 +16,6 @@ I want to build a game chooser for our expansive board game library. The came sh
 
 ![Picture of me drawing](http://mousewax.com/MeDrawing.png)
 
-I am a cartoonist. You can view <a href="http://www.mousewax.com">my **lame comic here**</a>.
+I am a cartoonist. You can view <a href="http://www.mousewax.com">my **lame comic here**</a>. But be careful, I did draw a picture of muhammed.
+
+There's a lot I could probably say here, but I want to keep it short and sweet.
